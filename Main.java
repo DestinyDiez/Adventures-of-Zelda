@@ -21,7 +21,7 @@ class Main {
      System.out.println(">Settings");
      System.out.println(">Leave Game");
      System.out.println("♣have fun on your adventure♣");
-     String na = scan.next();
+     String name = scan.next();
       
 
   
